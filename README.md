@@ -13,3 +13,6 @@ Quit all the apps except for the ones you always need to have open. Edit applesc
 
 ## Clean up Finder Windows
 Runs an applescript to close all Finder windows except for the front one.
+
+## Github Preview
+Speeds up prepending "http://htmlpreview.github.io/?" to a url
