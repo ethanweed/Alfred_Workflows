@@ -10,3 +10,6 @@ Opens the Brett Terpstra's wonderful menubar app Bunch without using the mouse. 
 
 ## Cleansweep
 Quit all the apps except for the ones you always need to have open. Edit applescript element to set your own exclusions.
+
+## Clean up Finder Windows
+Runs an applescript to close all Finder windows except for the front one.
